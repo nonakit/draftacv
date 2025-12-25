@@ -1,0 +1,41 @@
+# robots.txt for DraftaCV
+# Website: https://nonakit.github.io/scansentry/
+
+# Allow all search engines to crawl public pages
+User-agent: *
+
+# Block the entire admin/CMS directory
+Disallow: /admin/
+Disallow: /admin/*
+
+# Block Firebase config (security - prevents exposing config)
+Disallow: /js/firebase-config.js
+
+# Block common admin/login patterns (extra protection)
+Disallow: /cms/
+
+# Allow CSS and JS (important for proper page rendering in search results)
+Allow: /css/
+Allow: /js/
+
+# Allow images and carousel (important for image search and social sharing)
+Allow: /images/
+Allow: /carousel/
+
+# Allow all public HTML pages
+Allow: /index.html
+Allow: /blog.html
+Allow: /blog-post.html
+Allow: /cv-checker.html
+Allow: /samples.html
+Allow: /form.html
+Allow: /privacy-policy.html
+Allow: /terms-of-service.html
+
+# Allow everything else by default
+Allow: /
+
+# Sitemap location (create this for better SEO!)
+# Sitemap: https://nonakit.github.io/scansentry/sitemap.xml
+
+# No crawl-delay - allows search engines to crawl at full speed for faster indexing
