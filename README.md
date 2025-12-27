@@ -168,7 +168,7 @@ This repository demonstrates:
 
 ## 🔗 Live Website
 
-**Visit:** [https://nonakit.github.io/scansentry/](https://nonakit.github.io/scansentry/)
+**Visit:** [https://draftacv.com/](https://draftacv.com)
 
 ### Business Contact:
 - 📧 Business Email: draftacv@gmail.com
@@ -192,7 +192,7 @@ The live website serves real customers and contains actual business operations. 
 - 📧 Email: [tislamkanon@gmail.com](mailto:tislamkanon@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tislamkanon](https://linkedin.com/in/tislamkanon)
 - 📸 Instagram: [@tislamkanon](https://instagram.com/tislamkanon)
-- 🌐 Website: [nonakit.github.io/scansentry](https://nonakit.github.io/scansentry/)
+- 🌐 Website: [draftacv.com}
 
 For business inquiries, collaboration, or hiring opportunities, please reach out via email, LinkedIn, or Instagram.
 
@@ -212,5 +212,6 @@ For business inquiries, collaboration, or hiring opportunities, please reach out
 **© 2025 MD Touhidul Islam Kanon. All Rights Reserved.**
 
 *This is a proprietary project. Viewing permitted. Copying prohibited.*
+
 
 </div>
