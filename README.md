@@ -69,7 +69,7 @@ DraftaCV is a professional resume writing service platform featuring:
 
 ### ✅ YOU CAN:
 
-- View the live website at [nonakit.github.io/scansentry](https://draftacv.com)
+- View the live website at [draftacv.com](https://draftacv.com)
 - Browse the code for educational/learning purposes
 - Reference this project in your portfolio/resume
 - Use as inspiration for your own original work
@@ -214,4 +214,5 @@ For business inquiries, collaboration, or hiring opportunities, please reach out
 
 
 </div>
+
 
