@@ -2,7 +2,7 @@
 
 **Professional CV & Resume Builder**
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://nonakit.github.io/scansentry/)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://draftacv.com)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)]()
 [![Copyright](https://img.shields.io/badge/Copyright-2025-blue)]()
 
@@ -69,7 +69,7 @@ DraftaCV is a professional resume writing service platform featuring:
 
 ### ✅ YOU CAN:
 
-- View the live website at [nonakit.github.io/scansentry](https://nonakit.github.io/scansentry/)
+- View the live website at [nonakit.github.io/scansentry](https://draftacv.com)
 - Browse the code for educational/learning purposes
 - Reference this project in your portfolio/resume
 - Use as inspiration for your own original work
@@ -168,11 +168,10 @@ This repository demonstrates:
 
 ## 🔗 Live Website
 
-**Visit:** [https://draftacv.com/](https://draftacv.com)
+**Visit:** [https://draftacv.com] (https://draftacv.com)
 
 ### Business Contact:
 - 📧 Business Email: draftacv@gmail.com
-- 💬 WhatsApp: [+62 8112087181](https://wa.me/628112087181)
 - 📸 Instagram: [@draftacv](https://www.instagram.com/draftacv)
 
 ---
@@ -192,7 +191,7 @@ The live website serves real customers and contains actual business operations. 
 - 📧 Email: [tislamkanon@gmail.com](mailto:tislamkanon@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/tislamkanon](https://linkedin.com/in/tislamkanon)
 - 📸 Instagram: [@tislamkanon](https://instagram.com/tislamkanon)
-- 🌐 Website: [draftacv.com}
+- 🌐 Website: [https://marketixlab.com}
 
 For business inquiries, collaboration, or hiring opportunities, please reach out via email, LinkedIn, or Instagram.
 
@@ -215,3 +214,4 @@ For business inquiries, collaboration, or hiring opportunities, please reach out
 
 
 </div>
+
