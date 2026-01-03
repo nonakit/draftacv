@@ -208,11 +208,12 @@ For business inquiries, collaboration, or hiring opportunities, please reach out
 
 <div align="center">
 
-**© 2025 MD Touhidul Islam Kanon. All Rights Reserved.**
+**© 2026 MD Touhidul Islam Kanon. All Rights Reserved.**
 
 *This is a proprietary project. Viewing permitted. Copying prohibited.*
 
 
 </div>
+
 
 
